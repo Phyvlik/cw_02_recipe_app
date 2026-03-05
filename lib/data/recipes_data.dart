@@ -44,7 +44,7 @@ final List<Recipe> sampleRecipes = [
   ),
   Recipe(
     name: 'Tomato Soup',
-    imagePath: 'assets/images/soup.jpg',
+    imagePath: 'assets/images/soup.png',
     ingredients: [
       '800g canned tomatoes',
       '1 onion, chopped',
